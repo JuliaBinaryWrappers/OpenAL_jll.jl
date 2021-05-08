@@ -1,80 +1,80 @@
 [[OpenAL]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96c0babaff075ac1810e1b4a59b127baef901fe5"
+git-tree-sha1 = "9bcf046a70f503002b65de718dab128e9b39bf96"
 libc = "glibc"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "1f02892ad49619afaedb2e1dd3c910a649b3fd4d606c1d3ddebc6685d396f907"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "a5ca3718a3cceea3c464ab65543efdc83b68233e93217df8a5e8194a006761b1"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.i686-linux-gnu-cxx03.tar.gz"
 [[OpenAL]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b57b8f5fd736cc89a9f1d7225522de94d4771a75"
+git-tree-sha1 = "89cec1f02e05192b1806b6ee19cbe867b390d3c4"
 libc = "glibc"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "e6367143c816bedd2c59ed389c7269cc3a2ec8bb6784e1ebb9bc199558fb2847"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "5adc5a2aaa0068208466e71eb19891034d2b6c0307b5b080a4fcc78e73b0a819"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.i686-linux-gnu-cxx11.tar.gz"
 [[OpenAL]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eeb633a14092920bc9ccb5a226c91cad57cd281b"
+git-tree-sha1 = "2207742169baae1d5b2e4a55c20c502206f84feb"
 libc = "musl"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "b3f7c1c2495058aa3aed87d66d3e0248597d53239c994c2bd6bbeebfde8ddb25"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "e0b7ebe06d111154fcd4bd37cea075ef78c06760bb37e7e9c1a44b4f0b92cbbb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.i686-linux-musl-cxx03.tar.gz"
 [[OpenAL]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49150e7f03b6a389ffad44484265b9bdf9bc1fce"
+git-tree-sha1 = "0f887506a832341e30fa5633ab00d4dadab76655"
 libc = "musl"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "d661a6e218e70a761143360ef81797d220e1b8af3e828e84f28ceee8ca16d06a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "29421e1fb17a9c2ed0c0fa9b09078c5e4d1e460c1c93bc21b6791cac6a70eccc"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.i686-linux-musl-cxx11.tar.gz"
 [[OpenAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9ce58a5159890b41656110a9d07ab7d135af8901"
+git-tree-sha1 = "f6e576129b4880609bf3823f0b425a75c412ffc7"
 libc = "glibc"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "73c664408e494a58b4f7beb38bca8dcb85dec674135e6bd38002fe3a5abb1520"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "4930484a2b3a0ab71c16c8cfc5f34123919af018ff42be5ebfcaf288ed40bc11"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[OpenAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f47927d5575b220bcc0e337fa3857aded6bc7419"
+git-tree-sha1 = "394e9c0c61c8dd779e7afdc3505654dc85e5749d"
 libc = "glibc"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "533aaf93f8a0fd7affd5ddf380e4603c594e39138d5b36a35bc9476b04d27b01"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7e828d94f27cd6da4862dd666740775a34f67b2f1ec5039b6db524c8f278e987"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[OpenAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d60d96d81e8d979b1985106395acfbdb6727746"
+git-tree-sha1 = "61cde6cc32a06f82bc6d07ba13f0a4c2fad1cc3e"
 libc = "musl"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "6b99d830eabdec614d0c00e690e70ae836f34317dfee44602e93ea9cabc500d7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "8f590b2df4b0e403ccd5665e7d23b8aacd92e5f2b42fc3c5c52fe2b0f4b80a79"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.x86_64-linux-musl-cxx03.tar.gz"
 [[OpenAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "32c8316f392461be03526d6b1813d3ff0ad7c723"
+git-tree-sha1 = "81ebb54bca4209bc20b6bd5d6b7d453c49acaeee"
 libc = "musl"
 os = "linux"
 
     [[OpenAL.download]]
-    sha256 = "ddd6429a7b1220d0dd2d562798dc586d1983e5b011bb97d0c9bdf34f700c3e9d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.19.0+0/OpenAL.v1.19.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "7365595d7d97d38101a05eaf13da2751c3abaf40fd924b1e0f12abe1a4e26b78"
+    url = "https://github.com/JuliaBinaryWrappers/OpenAL_jll.jl/releases/download/OpenAL-v1.21.1+0/OpenAL.v1.21.1.x86_64-linux-musl-cxx11.tar.gz"

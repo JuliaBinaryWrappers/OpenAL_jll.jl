@@ -1,6 +1,6 @@
 name = "OpenAL_jll"
 uuid = "c52b6589-6b5d-587d-9bb5-adf8a44d3946"
-version = "1.19.0+0"
+version = "1.21.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -9,8 +9,9 @@ CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 alsa_jll = "45378030-f8ea-5b20-a7c7-1a9d95efb90e"
 Ogg_jll = "e7412a2a-1a6e-54c0-be00-318e2571c051"
+PulseAudio_jll = "02771fc1-bdb7-5db5-8d11-300768e00fbd"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.1.0"
+JLLWrappers = "1.2.0"
 julia = "1.0"
